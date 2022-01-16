@@ -1,4 +1,4 @@
-package LinkedList.OneWayCircularList;
+package LinkedList;
 
 public class ListStructure {
 	
@@ -12,8 +12,8 @@ public class ListStructure {
 		
 		if(headNode == null) { 
 			headNode = newNode;
-			headNode.nextNode = lastNode;
 			lastNode = newNode; 
+			headNode.nextNode = lastNode;
 			System.out.println("List is created and new node added to top of the list structure");
 		}else {
 			lastNode.nextNode = newNode; //son node'nin devamına yeni node eklendi

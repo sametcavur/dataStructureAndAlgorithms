@@ -1,4 +1,4 @@
-package LinkedList.OneWayCircularList;
+package LinkedList;
 
 public class Node {
 
