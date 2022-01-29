@@ -6,13 +6,18 @@ public class main {
 
 		ListStructure listStructure = new ListStructure();
 		
-		listStructure.addNewNodeToTopOfTheList(10);
-		listStructure.addNewNodeToTopOfTheList(50);
+		listStructure.addNewNodeToTopOfTheList(1);
 		
-		listStructure.addNewNodeToEndOfTheList(55);
-		listStructure.addNewNodeToEndOfTheList(23);
-		listStructure.addNewNodeToEndOfTheList(10);
+		listStructure.addNewNodeToEndOfTheList(2);
+		
 		listStructure.addNewNodeToTopOfTheList(3);
+		
+		listStructure.addNewNodeToBetween(2, 6);
+		
+		listStructure.addNewNodeToBetween(0, 9);
+		
+		listStructure.addNewNodeToBetween(1, 7);
+		
 		
 		listStructure.writeTheList();
 		
