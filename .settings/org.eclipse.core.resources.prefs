@@ -1,2 +1,3 @@
 eclipse.preferences.version=1
-encoding//src/LinkedList/ListStructure.java=UTF-8
+encoding//src/LinkedList/DoubleWayLinearList/ListStructure.java=UTF-8
+encoding//src/LinkedList/OneWayLinearList/ListStructure.java=UTF-8
