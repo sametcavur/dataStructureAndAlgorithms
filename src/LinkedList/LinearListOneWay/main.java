@@ -1,4 +1,4 @@
-package LinkedList.OneWayLinearList;
+package LinkedList.LinearListOneWay;
 
 public class main {
 

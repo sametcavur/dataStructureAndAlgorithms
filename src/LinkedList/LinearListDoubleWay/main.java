@@ -1,4 +1,4 @@
-package LinkedList.DoubleWayLinearList;
+package LinkedList.LinearListDoubleWay;
 
 public class main {
 
