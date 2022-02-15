@@ -1,6 +1,5 @@
 package LinkedList.CircularListDoubleWay;
 
-import java.awt.HeadlessException;
 
 public class ListStructure {
 	Node headNode;
